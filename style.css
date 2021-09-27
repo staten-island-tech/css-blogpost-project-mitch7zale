@@ -9,7 +9,13 @@ body{
     text-align: center;
     background-color: steelblue;
 }
+.background{
+    background-image: url("Blog\ post\ 1.jpg");
+    background-size: 50%;
+}
+
 .Post-class{
     text-align: center;
-    border: steelblue;
+    background-color: steelblue;
+    margin: 60 100px;
 }
